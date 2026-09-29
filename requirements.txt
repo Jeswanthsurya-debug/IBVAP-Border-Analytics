@@ -1,6 +1,5 @@
-numpy
-opencv-python
-ultralytics
-easyocr
 streamlit
+opencv-python-headless
 pandas
+ultralytics
+torch
